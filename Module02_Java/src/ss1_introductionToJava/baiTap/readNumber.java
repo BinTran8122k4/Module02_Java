@@ -5,7 +5,7 @@ import com.sun.javafx.iio.gif.GIFImageLoaderFactory;
 import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 
-public class readNumber {
+public class ReadNumber {
     static int chuc;
     static int tram;
     static int donVi;

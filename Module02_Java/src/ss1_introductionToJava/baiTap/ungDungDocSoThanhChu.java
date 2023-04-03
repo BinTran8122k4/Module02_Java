@@ -3,7 +3,7 @@ package ss1_introductionToJava.baiTap;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ungDungDocSoThanhChu {
+public class UngDungDocSoThanhChu {
     public int readNumber(int a , int b , int c) {
         Scanner scanner = new Scanner(System.in);
 

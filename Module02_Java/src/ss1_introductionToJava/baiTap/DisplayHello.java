@@ -2,7 +2,7 @@ package ss1_introductionToJava.baiTap;
 
 import java.util.Scanner;
 
-public class display_hello {
+public class DisplayHello {
     public static void main(String[] args) {
         Scanner name = new Scanner(System.in);
         System.out.println("Enter Ur Name:");

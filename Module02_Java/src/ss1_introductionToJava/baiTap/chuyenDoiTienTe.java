@@ -2,7 +2,7 @@ package ss1_introductionToJava.baiTap;
 
 import java.util.Scanner;
 
-public class chuyenDoiTienTe {
+public class ChuyenDoiTienTe {
     public static void main(String[] args) {
         Scanner money = new Scanner(System.in);
         System.out.println("Enter ur USD: ");
