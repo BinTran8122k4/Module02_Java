@@ -1,4 +1,4 @@
-package ss4_class_doi_tuong_trong_java.bai_tap.Fan;
+package ss4_class_doi_tuong_trong_java.bai_tap.fan;
 
 import java.util.Scanner;
 
