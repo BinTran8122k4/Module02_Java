@@ -10,9 +10,6 @@ public class TestShape {
         for (Shape element : shape) {
             System.out.println(element.getArea());
         }
-
-
-
         Resizeable resizeable[] = new Resizeable[3];
         resizeable[0] = new Rectangle(3.0,5.0);
         resizeable[1] = new Circle(4.0);
