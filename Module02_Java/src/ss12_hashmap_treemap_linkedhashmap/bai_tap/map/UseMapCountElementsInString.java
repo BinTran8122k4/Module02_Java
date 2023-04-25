@@ -1,4 +1,4 @@
-package ss12_hashmap_treemap_linkedhashmap.bai_tap.quan_ly_san_pham;
+package ss12_hashmap_treemap_linkedhashmap.bai_tap.map;
 
 import java.util.Map;
 import java.util.Scanner;
